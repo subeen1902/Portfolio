@@ -20,7 +20,6 @@ function useTheme(): 'light' | 'dark' {
 }
 
 /** 사용 기술 → 배지 맵핑 */
-/** 사용 기술 → 배지 맵핑 */
 const BADGE_MAP: Record<string, { logo: string; color: string }> = {
   React: { logo: 'react', color: '61DAFB' },
   TypeScript: { logo: 'typescript', color: '3178C6' },
