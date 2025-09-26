@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 배포 주소
-> https://portfolio-sh7d-g64vkfgpk-subeens-projects-d258e35e.vercel.app/
+> https://subeen-dev.vercel.app/
 
 ---
 
