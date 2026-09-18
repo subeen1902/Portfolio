@@ -183,7 +183,7 @@ export default function AboutMe() {
           </a>
           <span className="bar">|</span>
           <a
-            href="https://lemon-trilby-db5.notion.site/Subeen-1d90bf15a6198025bfbcc41c84be8516?source=copy_link"
+            href="https://lemon-trilby-db5.notion.site/2070bf15a61980729bc5d215934b6ba4?source=copy_link"
             target="_blank"
             rel="noreferrer"
           >
